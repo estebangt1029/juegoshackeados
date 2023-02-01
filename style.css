@@ -26,6 +26,8 @@
     border:none;
     overflow: hidden;
     box-shadow: 0px 0px 10px 2px white;  
+    
+    
 }
 @media (min-width: 600px) {
     .conlogin{
@@ -79,6 +81,7 @@
     align-items: center;
     gap: 5px;
     bottom:5px;
+    
 }
 
 /* nav */
