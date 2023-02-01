@@ -146,7 +146,9 @@ ul{
     border-radius: 8PX;
     padding-left: 8px;
 }
-
+.juegos{
+    overflow: hidden;
+}
 
 
 
